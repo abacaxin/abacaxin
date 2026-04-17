@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, eu sou o Dan</h1>
 
 <p align="center">
-🚀 Desenvolvedor focado em <b>IA, IoT e Sistemas</b><br>
+🚀 Desenvolvedor focado em <b>IA, IoT, Robótica e Automação de Sistemas</b><br>
 💻 Python | Java | Kotlin | ESP32 | Raspberry Pi
 </p>
 
@@ -89,15 +89,6 @@
 * Uso de OpenCV + modelo YOLO
 * Base para automação de reciclagem
 
----
-
-### 📡 Experimentos com Raspberry Pi
-
-* Transmissão de vídeo
-* Ajuste de resolução e desempenho
-* Testes com visão computacional
-
----
 
 ## 📈 Em evolução
 
