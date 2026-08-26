@@ -1,113 +1,77 @@
-<h1 align="center">👋 Hey, eu sou o Dan</h1>
+# Daniel Viegas
 
-<p align="center">
-🚀 Desenvolvedor focado em <b>IA, IoT, Robótica e Automação de Sistemas</b><br>
-💻 Python | Java | Kotlin | ESP32 | Raspberry Pi
-</p>
+**Sistemas embarcados · Visão computacional · Robótica**
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=1000&lines=Visão+Computacional;Internet+das+Coisas+(IoT);Desenvolvimento+Mobile;Sempre+aprendendo+algo+novo" />
-</p>
+Construo sistemas que leem o mundo por sensor ou câmera, decidem em tempo real e agem sobre hardware.
+Engenharia de Software · UNDB — CTO na [Damage Group](https://github.com/) — Vice-presidente da LARP
 
 ---
 
-## 🧠 Sobre mim
+### Stack
 
-* 🔐 Construindo **sistema de controle de acesso com RFID (ESP32)**
-* 🤖 Desenvolvendo **IA para identificação de lixo (OpenCV + YOLO)**
-* 📱 Aprendendo **Android com Kotlin (API 34)**
-* ⚡ Explorando **Raspberry Pi e sistemas embarcados**
-* 📚 Estudando eletrônica do **básico ao intermediário com profundidade**
+**Linguagens**
 
----
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 
-## 🛠 Tech Stack
+**Visão computacional & IA**
 
-### 💻 Linguagens
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=flat-square&logo=yolo&logoColor=00FFFF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF)
+![AprilTag](https://img.shields.io/badge/AprilTag-0D1117?style=flat-square)
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
+**Embarcados & Hardware**
 
----
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0D1117?style=flat-square&logo=freertos&logoColor=1DAB56)
+![KiCad](https://img.shields.io/badge/PCB_Design-0D1117?style=flat-square&logo=kicad&logoColor=314CB0)
 
-### 🤖 IA & Visão Computacional
+**Ferramentas**
 
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
----
-
-### 🔌 Hardware & IoT
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi"/>
-</p>
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Android Studio](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
 
 ---
 
-### ⚙️ Ferramentas
+### Projetos
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+**Carro autônomo seguidor de faixa** — Raspberry Pi
+Detecção de faixa por scanlines com filtro top-hat, controle PID e pipeline de câmera otimizado de 7 para 28 FPS.
+`Python` · `OpenCV` · `PID`
 
----
+**Robô de condução urbana — FIRA**
+Leitura de placas por AprilTag validada em competição, faixa de pedestre e navegação por máquina de estados.
+`Python` · `OpenCV` · `AprilTag`
 
-## 📊 GitHub Stats
+**Drone por gestos**
+Controle por reconhecimento de mão com visão rodando offboard. PCB projetada do zero, sem placa de desenvolvimento.
+`Python` · `OpenCV` · `PCB`
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abacaxin&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abacaxin&layout=compact&theme=tokyonight"/>
-</p>
+**Robô de mesa com voz**
+Pipeline STT → LLM → TTS via Groq, firmware FreeRTOS dual-core no ESP32-S3 e expressões em OLED.
+`ESP32-S3` · `FreeRTOS` · `Node.js`
 
----
+**Controle de acesso RFID**
+Cadastro por cartão admin, log com timestamp em cartão SD e gerenciamento remoto por app.
+`ESP32` · `RFID` · `Android`
 
-## 🚀 Projetos em Destaque
-
-### 🔐 Sistema de Controle de Acesso RFID
-
-* ESP32 + RFID + cartão SD
-* Cadastro de usuários via cartão admin
-* Logs de acesso com timestamp
-* Controle remoto via app
+**Classificação de resíduos**
+Modelo de identificação de recicláveis por imagem, base para triagem automatizada.
+`Python` · `YOLO`
 
 ---
 
-### 🤖 IA de Identificação de Lixo
+### Contato
 
-* Classificação de materiais (plástico, papel, etc.)
-* Uso de OpenCV + modelo YOLO
-* Base para automação de reciclagem
-
-
-## 📈 Em evolução
-
-* 🔥 Melhorar precisão de modelos de IA
-* ⚡ Aprofundar eletrônica (entender de verdade, não só usar)
-* 📱 Criar apps Android completos
-* 🧠 Evoluir de projetos para soluções reais
-
----
-
-## 📫 Contato
-
-
-
-* Email: danielvgs.work@gmail.com
-
-
----
-
-<p align="center">
-⭐ Construindo projetos reais e evoluindo todos os dias
-</p>
+[![Email](https://img.shields.io/badge/danielvgs.work@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:danielvgs.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/)
