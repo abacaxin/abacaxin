@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
   <img src="assets/banner-dark.png" alt="Daniel Viegas — Sistemas embarcados, visão computacional e robótica">
 </picture>
 
