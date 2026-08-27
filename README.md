@@ -4,8 +4,6 @@
   <img src="assets/banner-dark.png" alt="Daniel Viegas — Sistemas embarcados, visão computacional e robótica">
 </picture>
 
-# Daniel Viegas
-
 **Sistemas embarcados · Visão computacional · Robótica**
 
 Construo sistemas que leem o mundo por sensor ou câmera, decidem em tempo real e agem sobre hardware.
